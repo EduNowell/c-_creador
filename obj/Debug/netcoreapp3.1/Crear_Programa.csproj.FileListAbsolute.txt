@@ -1,0 +1,13 @@
+C:\Users\Edu NG\Documents\Curso .Net\Crear_Programa\bin\Debug\netcoreapp3.1\Crear_Programa.exe
+C:\Users\Edu NG\Documents\Curso .Net\Crear_Programa\bin\Debug\netcoreapp3.1\Crear_Programa.deps.json
+C:\Users\Edu NG\Documents\Curso .Net\Crear_Programa\bin\Debug\netcoreapp3.1\Crear_Programa.runtimeconfig.json
+C:\Users\Edu NG\Documents\Curso .Net\Crear_Programa\bin\Debug\netcoreapp3.1\Crear_Programa.runtimeconfig.dev.json
+C:\Users\Edu NG\Documents\Curso .Net\Crear_Programa\bin\Debug\netcoreapp3.1\Crear_Programa.dll
+C:\Users\Edu NG\Documents\Curso .Net\Crear_Programa\bin\Debug\netcoreapp3.1\Crear_Programa.pdb
+C:\Users\Edu NG\Documents\Curso .Net\Crear_Programa\obj\Debug\netcoreapp3.1\Crear_Programa.csprojAssemblyReference.cache
+C:\Users\Edu NG\Documents\Curso .Net\Crear_Programa\obj\Debug\netcoreapp3.1\Crear_Programa.csproj.CoreCompileInputs.cache
+C:\Users\Edu NG\Documents\Curso .Net\Crear_Programa\obj\Debug\netcoreapp3.1\Crear_Programa.AssemblyInfoInputs.cache
+C:\Users\Edu NG\Documents\Curso .Net\Crear_Programa\obj\Debug\netcoreapp3.1\Crear_Programa.AssemblyInfo.cs
+C:\Users\Edu NG\Documents\Curso .Net\Crear_Programa\obj\Debug\netcoreapp3.1\Crear_Programa.dll
+C:\Users\Edu NG\Documents\Curso .Net\Crear_Programa\obj\Debug\netcoreapp3.1\Crear_Programa.pdb
+C:\Users\Edu NG\Documents\Curso .Net\Crear_Programa\obj\Debug\netcoreapp3.1\Crear_Programa.genruntimeconfig.cache
